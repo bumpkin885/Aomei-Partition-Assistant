@@ -219,4 +219,4 @@ AOMEI Partition Assistant is provided as a full free version, meaning you have a
 Start managing your disk partitions efficiently today! Download AOMEI Partition Assistant for free and experience the difference.
 
 ---
-**Last updated:** 2026-10-12 17:34:37 UTC
+**Last updated:** 2026-10-13 00:22:00 UTC
